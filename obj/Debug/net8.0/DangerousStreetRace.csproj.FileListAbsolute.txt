@@ -1,0 +1,14 @@
+C:\Users\evakr\RiderProjects\DangerousStreetRace\bin\Debug\net8.0\DangerousStreetRace.exe
+C:\Users\evakr\RiderProjects\DangerousStreetRace\bin\Debug\net8.0\DangerousStreetRace.deps.json
+C:\Users\evakr\RiderProjects\DangerousStreetRace\bin\Debug\net8.0\DangerousStreetRace.runtimeconfig.json
+C:\Users\evakr\RiderProjects\DangerousStreetRace\bin\Debug\net8.0\DangerousStreetRace.dll
+C:\Users\evakr\RiderProjects\DangerousStreetRace\bin\Debug\net8.0\DangerousStreetRace.pdb
+C:\Users\evakr\RiderProjects\DangerousStreetRace\obj\Debug\net8.0\DangerousStreetRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evakr\RiderProjects\DangerousStreetRace\obj\Debug\net8.0\DangerousStreetRace.AssemblyInfoInputs.cache
+C:\Users\evakr\RiderProjects\DangerousStreetRace\obj\Debug\net8.0\DangerousStreetRace.AssemblyInfo.cs
+C:\Users\evakr\RiderProjects\DangerousStreetRace\obj\Debug\net8.0\DangerousStreetRace.csproj.CoreCompileInputs.cache
+C:\Users\evakr\RiderProjects\DangerousStreetRace\obj\Debug\net8.0\DangerousStreetRace.dll
+C:\Users\evakr\RiderProjects\DangerousStreetRace\obj\Debug\net8.0\refint\DangerousStreetRace.dll
+C:\Users\evakr\RiderProjects\DangerousStreetRace\obj\Debug\net8.0\DangerousStreetRace.pdb
+C:\Users\evakr\RiderProjects\DangerousStreetRace\obj\Debug\net8.0\DangerousStreetRace.genruntimeconfig.cache
+C:\Users\evakr\RiderProjects\DangerousStreetRace\obj\Debug\net8.0\ref\DangerousStreetRace.dll
